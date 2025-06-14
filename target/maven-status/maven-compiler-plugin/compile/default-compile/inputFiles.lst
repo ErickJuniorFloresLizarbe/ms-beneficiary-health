@@ -1,6 +1,6 @@
 D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\config\AuthContextWebFilter.java
+D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\config\JwtConverterConfig.java
 D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\config\SecurityConfig.java
-D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\config\SwaggerConfig.java
 D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\HealthApplication.java
 D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\model\dto\HealthDTO.java
 D:\RepoEdu\ms-beneficiary-health\src\main\java\pe\edu\vallegrande\health\model\Health.java
